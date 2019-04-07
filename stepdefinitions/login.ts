@@ -76,7 +76,7 @@ const leasing: leasingPageObject = new leasingPageObject();
                 await leasing.Price.sendKeys(string); 
 
                 //sisaldab käibemaksu
-                await leasing.includesVAT.click();  
+                //await leasing.includesVAT.click();  
 
                  }); 
 
